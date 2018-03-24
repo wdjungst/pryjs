@@ -1,10 +1,10 @@
-* Install
+# Install
 
 ```
   yarn add @djungst/pry
 ```
 
-* Usage
+# Usage
 ```javascript
   import binding from '@djungst/pry'
 
